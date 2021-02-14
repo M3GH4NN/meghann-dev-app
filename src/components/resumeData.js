@@ -40,7 +40,7 @@ let resumeData = {
     'specialization':'DevOps Engineer',
     'MonthOfLeaving':'September',
     'YearOfLeaving':'2019 to Current',
-    'Achievements':'Software development, and web development (full stack)'
+    'Achievements':'Software development, web development (full stack)'
     },
     {
     'CompanyName':'Applied Insight/Stratus Solutions',
