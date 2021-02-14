@@ -3,7 +3,7 @@ let resumeData = {
     'name': 'Meghann Cunningham',
     'role': 'DevOps Engineer in the Fulton, MD area',
     'linkedinId':'',
-    'skypeid': 'Your skypeid',
+    'skypeid': '',
     'roleDescription': ' ',
     'socialLinks':[
     {
