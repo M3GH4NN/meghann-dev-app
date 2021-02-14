@@ -24,8 +24,8 @@ let resumeData = {
     {
     'UniversityName':'SUNY Empire State College',
     'specialization':'B.S., Computer Science',
-    'MonthOfPassing':'Dec',
-    'YearOfPassing':'2019',
+    'MonthOfPassing':'April',
+    'YearOfPassing':'2020',
     },
     {
     'UniversityName':'University of Rochester',
