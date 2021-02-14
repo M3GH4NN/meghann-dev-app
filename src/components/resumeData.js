@@ -1,7 +1,7 @@
 let resumeData = {
     'imagebaseurl':'https://ivy555.github.io/',
     'name': 'Meghann Cunningham',
-    'role': 'DevOps Engineer in the Fulton, MD. area',
+    'role': 'DevOps Engineer in the Fulton, MD area',
     'linkedinId':'',
     'skypeid': 'Your skypeid',
     'roleDescription': ' ',
@@ -30,7 +30,7 @@ let resumeData = {
     {
     'UniversityName':'University of Rochester',
     'specialization':'B.A., American Sign Language',
-    'MonthOfPassing':'Dec',
+    'MonthOfPassing':'December',
     'YearOfPassing':'2012',
     }
     ],
@@ -38,7 +38,7 @@ let resumeData = {
     {
     'CompanyName':'Applied Insight/Stratus Solutions',
     'specialization':'DevOps Engineer',
-    'MonthOfLeaving':'Sept',
+    'MonthOfLeaving':'September',
     'YearOfLeaving':'2019 to Current',
     'Achievements':'Software development, and web development (full stack)'
     },
@@ -52,7 +52,7 @@ let resumeData = {
     {
         'CompanyName':'Sign Language Connection, Inc.',
         'specialization':'Office Manager',
-        'MonthOfLeaving':'Jan',
+        'MonthOfLeaving':'January',
         'YearOfLeaving':'2013 to Sep 2019',
         'Achievements':''
         }
