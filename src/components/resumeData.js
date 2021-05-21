@@ -17,7 +17,7 @@ let resumeData = {
             'className': 'fa fa-github'
         }
     ],
-    'aboutme': "I am currently a DevOps engineer for a Cloud Service Provider in Fulton, MD. On my current contract, I am the sole DevOps engineer for a small team working on a video game. My duties include: maintaining the GitLab pipelines, creating the game's web application, maintaining all game-related infrastructure, and helping out with game design/development.",
+    'aboutme': "I am currently a DevOps engineer for a Cloud Service Provider in Fulton, MD. On my current contract I am the sole DevOps engineer for a small team working on a video game. My duties include: maintaining the GitLab pipelines, creating the game's web application, maintaining all game-related infrastructure, and helping out with game design/development.",
     'address': 'Columbia, MD',
     'email': 'mc@meghann.dev',
     'education': [
