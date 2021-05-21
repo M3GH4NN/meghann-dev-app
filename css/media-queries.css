@@ -54,6 +54,11 @@
       height: 114px;
       margin-left: 12px;
    }
+   #about .dog-pic {
+      width: 114px;
+      height: 114px;
+      margin-left: 12px;
+   }
    #about .contact-details { width: 50%; }
    #about .download { width: 50%; }
 
@@ -216,9 +221,16 @@
    /* About Section
    -------------------------------------------------------------------- */
    #about .profile-pic {
-      width: 100px;
-      height: 150px;
+      width: 40%;
+      height: 40%;
       border-radius: 20%;
+      
+   }
+   #about .dog-pic {
+      width: 50%;
+      height: 50%;
+      border-radius: 20%;
+      margin-bottom: 10%;
    }
    #about .download .button {
       width: 100%;
