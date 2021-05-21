@@ -1,3 +1,11 @@
+# To Deploy
+npm run build
+npm run deploy
+
+# To Test Locally
+npm run start
+('npm install' first if on a new PC)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
