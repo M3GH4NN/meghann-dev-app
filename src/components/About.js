@@ -9,7 +9,7 @@ return (
 <section id='about'>
 <div className='row'>
 <div className='three columns'>
-<img className='profile-pic' src='images/profilepic.jpg' alt='' />
+<img className='profile-pic' src='images/Snapchat-435441263.jpg' alt='Meghann Cunningham' />
 </div>
 <div className='nine columns main-col'>
 <h2>About Me</h2>
