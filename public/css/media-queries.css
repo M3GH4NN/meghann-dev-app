@@ -216,7 +216,6 @@
    /* About Section
    -------------------------------------------------------------------- */
    #about .profile-pic {
-      position: relative;
       width: 100px;
       height: 150px;
       border-radius: 20%;
