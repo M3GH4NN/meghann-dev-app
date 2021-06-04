@@ -87,7 +87,8 @@ let resumeData = {
         {
             'name': 'HypeTrain',
             'description': 'game release tracker',
-            'imgurl': 'images/portfolio/project.jpg'
+            'imgurl': 'images/portfolio/project.jpg',
+            'url': 'https://github.com/M3GH4NN/hypetrain'
         },
     ],
     'testimonials': [
