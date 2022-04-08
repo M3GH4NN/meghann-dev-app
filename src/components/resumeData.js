@@ -4,7 +4,7 @@ let resumeData = {
   role: "Team Lead & DevOps Engineer in the Fulton, MD area",
   linkedinId: "",
   skypeid: "",
-  roleDescription: " ",
+  roleDescription: "",
   socialLinks: [
     {
       name: "linkedin",
@@ -37,35 +37,37 @@ let resumeData = {
   ],
   work: [
     {
-      CompanyName: "Applied Insight",
-      specialization: "Team Lead and DevOps Engineer",
-      MonthOfLeaving: "March",
-      YearOfLeaving: "2022 to Current",
-      Achievements:
-        "Team Lead, Software development, Web development (Full Stack), AWS Infrastructure",
-    },
-    {
       CompanyName: "Applied Insight/Stratus Solutions",
-      specialization: "DevOps Engineer",
+      specialization: "Team Lead & DevOps Engineer",
       MonthOfLeaving: "September",
       YearOfLeaving: "2019 to Current",
-      Achievements:
-        "Software development, Web development (Full Stack), AWS Infrastructure. Tools and languages utilized: Python, Golang, Javascript, React, Node, CSS, HTML, JSON, YAML, Terraform, GitLab CI/CD, AWS CLI, AWS Amplify, AWS Cognito, AWS PinPoint, AWS Kinesis, AWS S3, AWS EC2, AWS VPC, AWS API, AWS DynamoDB, AWS Route53, AWS Certificate Manager, AWS Cost Explorer, AWS CloudFront, AWS CloudFormation, AWS Lambda, AWS CloudWatch, AWS SQS, AWS SMS, AWS ECS, AWS ECR, AWS GuardDuty",
+      Achievements: [
+        "Promoted to Team Lead in March 2022.",
+        "DevOps Duties: Software development, Web development (Full Stack), Cloud (AWS) Infrastructure, and other IT Operations.",
+        "Tools and languages utilized: React, Javascript, Node, Express, CSS, HTML, Python, Golang, JSON, YAML, Terraform, GitLab CI/CD, AWS CLI, AWS Amplify, AWS Cognito, AWS PinPoint, AWS Kinesis, AWS S3, AWS EC2, AWS VPC, AWS API, AWS DynamoDB, AWS Route53, AWS Certificate Manager, AWS Cost Explorer, AWS CloudFront, AWS CloudFormation, AWS Lambda, AWS CloudWatch, AWS SQS, AWS SMS, AWS ECS, AWS ECR, AWS GuardDuty",
+      ],
     },
     {
       CompanyName: "Applied Insight/Stratus Solutions",
       specialization: "DevOps Engineer Intern",
       MonthOfLeaving: "June",
       YearOfLeaving: "2019 to August 2019",
-      Achievements:
-        "Worked on a project to create networking automation tools within AWS. Tools and languages utilized: Python, Golang, JSON, YAML, AWS CLI, AWS CloudFormation, AWS Lambda, AWS EC2, AWS VPC, AWS API Gateway, AWS DynamoDB, AWS Transit Gateway, AWS S3, AWS CloudWatch, AWS SQS, AWS SMS, ",
+      Achievements: [
+        "Worked on a project to create networking automation tools within AWS.",
+        "Gave a presentation to the entire company on the project. The tools we made were put into production immediately.",
+        "Tools and languages utilized: Python, Golang, JSON, YAML, AWS CLI, AWS CloudFormation, AWS Lambda, AWS EC2, AWS VPC, AWS API Gateway, AWS DynamoDB, AWS Transit Gateway, AWS S3, AWS CloudWatch, AWS SQS, AWS SMS, ",
+      ],
     },
     {
       CompanyName: "Sign Language Connection, Inc.",
       specialization: "Office Manager",
       MonthOfLeaving: "January",
       YearOfLeaving: "2013 to September 2019",
-      Achievements: "",
+      Achievements: [
+        "Made a career change in 2019.",
+        "Intake, assessment, and fulfillment of sign language interpreter requests",
+        "Knowledgable in the ADA and HIPAA.",
+      ],
     },
   ],
   skillsDescription: "",
@@ -95,6 +97,9 @@ let resumeData = {
       skillname: "Javascript",
     },
   ],
+  //   TODO: add pictures of personal projects so that the box isn't empty...
+  // update hypetrain picture and gitlab to show current version of the site
+  // make site live????
   portfolio: [
     {
       name: "HypeTrain",

@@ -3,6 +3,8 @@ import React, { Component } from "react";
 export default class About extends Component {
   render() {
     let resumeData = this.props.resumeData;
+    // TODO: fix picture scaling
+    // Update pictures
     return (
       <div>
         <section id="about">

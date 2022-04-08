@@ -40,6 +40,7 @@ export default class Resume extends Component {
           <div className="nine columns main-col">
             {resumeData.work &&
               resumeData.work.map((item) => {
+                console.log(item.Achievements[0]);
                 return (
                   <div className="row item">
                     <div className="twelve columns">
@@ -51,7 +52,20 @@ export default class Resume extends Component {
                           {item.MonthOfLeaving} {item.YearOfLeaving}
                         </em>
                       </p>
-                      <p>{item.Achievements}</p>
+                      <p>
+                        <ul>
+                          <li>
+                            <span>&bull;</span> {item.Achievements[0]}
+                          </li>
+                          <li>
+                            <span>&bull;</span> {item.Achievements[1]}
+                          </li>
+                          <li>
+                            <span>&bull;</span> {item.Achievements[2]}
+                          </li>
+                        </ul>
+                        <ul></ul>
+                      </p>
                     </div>
                   </div>
                 );
