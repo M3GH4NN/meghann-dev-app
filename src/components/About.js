@@ -12,13 +12,13 @@ export default class About extends Component {
             <div className="three columns">
               <img
                 className="profile-pic"
-                src="images/Snapchat-435441263.jpg"
+                src="images/Snapchat-887043582.jpg"
                 alt="Meghann Cunningham"
               />
               <img
                 className="dog-pic"
-                src="images/dogs.jpeg"
-                alt="Tan mini poodle and black cockapoo puppy"
+                src="images/dogs2.jpeg"
+                alt="Tan mini poodle and black cockapoo"
               />
             </div>
 
