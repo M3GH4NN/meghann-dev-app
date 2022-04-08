@@ -17,7 +17,7 @@ export default class About extends Component {
               />
               <img
                 className="dog-pic"
-                src="images/dogs2.jpeg"
+                src="images/dogs2.jpg"
                 alt="Tan mini poodle and black cockapoo"
               />
             </div>
