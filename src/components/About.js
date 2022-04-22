@@ -12,7 +12,7 @@ export default class About extends Component {
             <div className="three columns">
               <img
                 className="profile-pic"
-                src="images/Snapchat-887043582.jpg"
+                src="images/IMG_20220410_183500.jpg"
                 alt="Meghann Cunningham"
               />
               <img

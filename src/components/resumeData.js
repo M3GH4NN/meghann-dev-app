@@ -111,13 +111,13 @@ let resumeData = {
       name: "Smart Monitor",
       description:
         "I created a smart monitor using my Raspberry Pi and a spare monitor. The monitor displays my calendar for the next four weeks, the current weather, the forecast for the rest of the week, and has a rotating background that uses images from a smart album of my dogs that I made. The smart album automatically pulls any pictures that I take of my dogs to it. ",
-      imgurl: "TODO",
+      imgurl: "images/20220418_090624.jpg",
     },
     {
       name: "Expense Tracker",
       description:
         "I created an program that logs into my Wegmans account, scrapes the receipts that are saved to my account from a specified date range, and then exports that data as an itemized receipt to a CSV file. I can then import the CSV into the Splitwise app for expense tracking",
-      imgurl: "TODO",
+      imgurl: "images/pic.jpg",
     },
   ],
   testimonials: [
