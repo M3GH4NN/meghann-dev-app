@@ -66,7 +66,7 @@ let resumeData = {
       Achievements: [
         "Made a career change in 2019.",
         "Intake, assessment, and fulfillment of sign language interpreter requests",
-        "Knowledgable in the ADA and HIPAA.",
+        "Knowledgeable in the ADA and HIPAA.",
       ],
     },
   ],
