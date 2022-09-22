@@ -11,11 +11,11 @@ let resumeData = {
       url: "https://www.linkedin.com/in/meghann-cunningham-239b5a4b/",
       className: "fa fa-linkedin",
     },
-    {
-      name: "github",
-      url: "https://github.com/M3GH4NN",
-      className: "fa fa-github",
-    },
+    // {
+    //   name: "github",
+    //   url: "https://github.com/M3GH4NN",
+    //   className: "fa fa-github",
+    // },
   ],
   aboutme:
     "I am currently a DevOps engineer for a Cloud Service Provider in Fulton, MD. On my current project I am the Team Lead and sole DevOps engineer for a small team working on a video game that will soon be ready for public launch. My current duties include: my team lead responsibilities, maintaining the GitLab pipelines, creating and maintaining the game's web application, maintaining all of our AWS infrastructure, maintaining any and all compliance, regulation, and security requirements for the game and website, and helping out with game design/development. In my free time, I enjoy working on personal projects at home, spending time with my two dogs Sophie and Henry, and playing video games!",
@@ -37,24 +37,35 @@ let resumeData = {
   ],
   work: [
     {
-      CompanyName: "Applied Insight/Stratus Solutions",
-      specialization: "Team Lead & DevOps Engineer",
+      CompanyName: "Applied Insight (formerly Stratus Solutions)",
+      specialization: "Game Dev Team Lead & DevOps Engineer",
       MonthOfLeaving: "September",
       YearOfLeaving: "2019 to Current",
       Achievements: [
-        "Promoted to Team Lead in March 2022.",
-        "DevOps Duties: Software development, Web development (Full Stack), Cloud (AWS) Infrastructure, and other IT Operations.",
+        "Promoted to Game Development Team Lead in 2022",
+        "Moved to a Game Development project in 2021 as the sole DevOps engineer in charge of the game's AWS infrastructure and website",
+        "Responsible for making sure the website and game were compliant with NSA security standards and policies",
+        "Built custom front-end and back-end components for game and website integration",
+        "Made sure network security was compliant",
+        "Ensured documentation for the game and website were accurate, detailed, and up to date",
+        "Maintained, automated, and improved the GitLab pipelines",
+        "Helped with game design and development",
+        "Worked on a development team responsible for developing AWS automation tools for a classified, deployable infrastructure platform",
+        "Created tools for our team to help with governance of our customers’ cloud accounts",
+        "Account management, budget enforcement, and compliance automation",
         "Tools and languages utilized: React, Javascript, Node, Express, CSS, HTML, Python, Golang, JSON, YAML, Terraform, GitLab CI/CD, AWS CLI, AWS Amplify, AWS Cognito, AWS PinPoint, AWS Kinesis, AWS S3, AWS EC2, AWS VPC, AWS API, AWS DynamoDB, AWS Route53, AWS Certificate Manager, AWS Cost Explorer, AWS CloudFront, AWS CloudFormation, AWS Lambda, AWS CloudWatch, AWS SQS, AWS SMS, AWS ECS, AWS ECR, AWS GuardDuty",
       ],
     },
+
     {
-      CompanyName: "Applied Insight/Stratus Solutions",
+      CompanyName: "Stratus Solutions",
       specialization: "DevOps Engineer Intern",
       MonthOfLeaving: "June",
       YearOfLeaving: "2019 to August 2019",
       Achievements: [
-        "Worked on a project to create networking automation tools within AWS.",
-        "Gave a presentation to the entire company on the project. The tools we made were put into production immediately.",
+        "Created networking automation tools within AWS for a classified, deployable infrastructure platform",
+        "The tools were immediately deployed into the project’s classified production environment",
+        "Gave a presentation to the entire company on the internship project",
         "Tools and languages utilized: Python, Golang, JSON, YAML, AWS CLI, AWS CloudFormation, AWS Lambda, AWS EC2, AWS VPC, AWS API Gateway, AWS DynamoDB, AWS Transit Gateway, AWS S3, AWS CloudWatch, AWS SQS, AWS SMS, ",
       ],
     },
@@ -64,37 +75,29 @@ let resumeData = {
       MonthOfLeaving: "January",
       YearOfLeaving: "2013 to September 2019",
       Achievements: [
-        "Made a career change in 2019.",
         "Intake, assessment, and fulfillment of sign language interpreter requests",
-        "Knowledgeable in the ADA and HIPAA.",
+        "Maintained and improved internal customer and interpreter database",
+        "Assisted with business development",
+        "Knowledgeable in the ADA and HIPAA",
       ],
     },
   ],
   skillsDescription: "",
   skills: [
     {
-      skillname: "AWS",
+      skillname:
+        "Languages: React, JavaScript, Node, Python, Express, HTML, CSS, NoSQL, Bash",
     },
     {
-      skillname: "Python",
+      skillname:
+        "AWS: Amplify, API Gateway, CLI, CloudFormation, CloudTrail, CloudWatch, Cognito, DynamoDB, EC2, ECR, ECS, ELB, IAM, Lambda, Pinpoint, Route53, S3, SNS, SQS, Transit Gateway, VPC   ",
     },
     {
-      skillname: "HTML5",
+      skillname:
+        "Tools/Software: CMD, Confluence, GitLab, Jira, Kion/Cloudtamer, PowerShell, Terraform",
     },
     {
-      skillname: "CSS",
-    },
-    {
-      skillname: "Reactjs",
-    },
-    {
-      skillname: "Golang",
-    },
-    {
-      skillname: "Terraform",
-    },
-    {
-      skillname: "Javascript",
+      skillname: "Platforms: AWS, Docker, Linux, Windows",
     },
   ],
   //   TODO: add pictures of personal projects so that the box isn't empty...
@@ -103,21 +106,22 @@ let resumeData = {
   portfolio: [
     {
       name: "HypeTrain",
-      description: "game release tracker",
+      description:
+        "I created a Python program that uses HTTP Requests and APIs to grab data from a public video game database in order to create a list of upcoming video game release dates. The user creates a list by searching for a game that they would like to keep track of and adding that game to their Watch List. The list can be modified at any time by the user. The user can also click an auto-update button that runs a function that will go through their watch list, remove any game whose release date has passed, and update any release dates that have changed. I am also working on transforming this program into a website (MERN Stack).",
       imgurl: "images/dualsense.jpg",
       url: "https://github.com/M3GH4NN/hypetrain",
     },
     {
-      name: "Smart Monitor",
+      name: "Custom Smart Home Skills",
       description:
-        "I created a smart monitor using my Raspberry Pi and a spare monitor. The monitor displays my calendar for the next four weeks, the current weather, the forecast for the rest of the week, and has a rotating background that uses images from a smart album of my dogs that I made. The smart album automatically pulls any pictures that I take of my dogs to it. ",
-      imgurl: "images/20220418_090624.jpg",
+        "I have created several smart home skills to help deaf family members. One example is that I linked my Ring doorbell to my Echo devices and then added custom logic to flash the smart lights in the house if someone rings the doorbell. The flashing smart lights will alert my mother that someone is at the door.",
+      imgurl: "images/smarthome.jpg",
     },
     {
-      name: "Expense Tracker",
+      name: "Smart Monitor",
       description:
-        "I created an program that logs into my Wegmans account, scrapes the receipts that are saved to my account from a specified date range, and then exports that data as an itemized receipt to a CSV file. I can then import the CSV into the Splitwise app for expense tracking",
-      imgurl: "images/pic.jpg",
+        "I created a smart monitor using my Raspberry Pi and a spare monitor. The monitor displays my calendar for the next four weeks, the current weather, the forecast for the rest of the week, and has a rotating background that uses images from a Google Photos smart album of my dogs.",
+      imgurl: "images/20220418_090624.jpg",
     },
   ],
   testimonials: [

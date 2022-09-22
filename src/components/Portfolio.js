@@ -6,10 +6,10 @@ export default class Porfolio extends Component {
       <section id="portfolio">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Personal Projects</h1>
+            <h1>Personal Projects</h1>
             <div
               id="portfolio-wrapper"
-              className="bgrid-quarters s-bgrid-thirds cf"
+              className="bgrid-halves s-bgrid-thirds cf"
               alt=""
             >
               {resumeData.portfolio &&
