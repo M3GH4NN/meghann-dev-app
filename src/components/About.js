@@ -15,11 +15,11 @@ export default class About extends Component {
                 src="images/IMG_20220410_183500.jpg"
                 alt="Meghann Cunningham"
               />
-              <img
+              {/* <img
                 className="dog-pic"
                 src="images/dogs2.jpg"
                 alt="Tan mini poodle and black cockapoo"
-              />
+              /> */}
             </div>
 
             <div className="nine columns main-col">

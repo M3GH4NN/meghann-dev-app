@@ -11,15 +11,15 @@ let resumeData = {
       url: "https://www.linkedin.com/in/meghann-cunningham-239b5a4b/",
       className: "fa fa-linkedin",
     },
-    // {
-    //   name: "github",
-    //   url: "https://github.com/M3GH4NN",
-    //   className: "fa fa-github",
-    // },
+    {
+      name: "github",
+      url: "https://github.com/M3GH4NN",
+      className: "fa fa-github",
+    },
   ],
   aboutme:
-    "I am currently a DevOps engineer for a Cloud Service Provider in Fulton, MD. On my current project I am the Team Lead and sole DevOps engineer for a small team working on a video game that will soon be ready for public launch. My current duties include: my team lead responsibilities, maintaining the GitLab pipelines, creating and maintaining the game's web application, maintaining all of our AWS infrastructure, maintaining any and all compliance, regulation, and security requirements for the game and website, and helping out with game design/development. In my free time, I enjoy working on personal projects at home, spending time with my two dogs Sophie and Henry, and playing video games!",
-  address: "Columbia, MD",
+    "I am currently a Platform Engineer for a DevSecOps Services and Infrastructure Automation company. In my free time, I enjoy working on personal projects at home, spending time with my partner and two dogs, and playing video games!",
+  address: "Saint Paul, MN",
   email: "mc@meghann.dev",
   education: [
     {
@@ -37,10 +37,20 @@ let resumeData = {
   ],
   work: [
     {
+      CompanyName: "EITR Technolgies",
+      specialization: "Platform Engineer",
+      MonthOfLeaving: "December",
+      YearOfLeaving: "2022 to Current",
+      Achievements: [
+        "Tools and languages utilized: Python, Terraform, Terragrunt, Salt Stack, Docker, Golang, GitLab CI/CD, AWS CLI, AWS IAM, AWS S3, AWS EC2, AWS VPC, AWS DynamoDB, AWS Route53, AWS Certificate Manager, AWS Lambda, AWS CloudWatch, AWS ECS, AWS ECR, GCP, Azure",
+      ],
+    },
+
+    {
       CompanyName: "Applied Insight (formerly Stratus Solutions)",
       specialization: "Game Dev Team Lead & DevOps Engineer",
       MonthOfLeaving: "September",
-      YearOfLeaving: "2019 to Current",
+      YearOfLeaving: "2019 to December 2022",
       Achievements: [
         "Promoted to Game Development Team Lead in 2022",
         "Moved to a Game Development project in 2021 as the sole DevOps engineer in charge of the game's AWS infrastructure and website",
@@ -94,10 +104,10 @@ let resumeData = {
     },
     {
       skillname:
-        "Tools/Software: CMD, Confluence, GitLab, Jira, Kion/Cloudtamer, PowerShell, Terraform",
+        "Tools/Software: CMD, Confluence, GitLab, Jira, Kion/Cloudtamer, PowerShell, Terraform, Terragrunt",
     },
     {
-      skillname: "Platforms: AWS, Docker, Linux, Windows",
+      skillname: "Platforms: AWS, Azure, Docker, GCP, Linux, Windows",
     },
   ],
   //   TODO: add pictures of personal projects so that the box isn't empty...
