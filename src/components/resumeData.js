@@ -42,6 +42,11 @@ let resumeData = {
       MonthOfLeaving: "December",
       YearOfLeaving: "2022 to Current",
       Achievements: [
+        "Develop and implement scalable, reliable, and efficient platform solutions based on business requirements and industry best practices",
+        "Automate infrastructure provisioning, configuration, and deployment processes to ensure consistency and repeatability",
+        "Establish and maintain DevSecOps practices",
+        "Implement monitoring, logging, and alerting systems to proactively identify and resolve performance bottlenecks, scalability issues, and security vulnerabilities",
+        "Ensure platform security by implementing appropriate security measures, adhering to industry standards, and conducting regular security audits and asseessments",
         "Tools and languages utilized: Python, Terraform, Terragrunt, Salt Stack, Docker, Golang, GitLab CI/CD, AWS CLI, AWS IAM, AWS S3, AWS EC2, AWS VPC, AWS DynamoDB, AWS Route53, AWS Certificate Manager, AWS Lambda, AWS CloudWatch, AWS ECS, AWS ECR, GCP, Azure",
       ],
     },

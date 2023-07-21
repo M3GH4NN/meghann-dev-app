@@ -95,45 +95,17 @@ export default class Resume extends Component {
                     <li>
                       <span>&bull;</span> {resumeData.work[0].Achievements[1]}
                     </li>
-                    <ul>
-                      <li>
-                        <span>&bull;</span> {resumeData.work[0].Achievements[2]}
-                        <ul>
-                          <li>
-                            <span>&bull;</span>{" "}
-                            {resumeData.work[0].Achievements[3]}
-                          </li>
-                          <li>
-                            <span>&bull;</span>{" "}
-                            {resumeData.work[0].Achievements[4]}
-                          </li>
-                        </ul>
-                      </li>
-                      <li>
-                        <span>&bull;</span> {resumeData.work[0].Achievements[5]}
-                      </li>
-                      <li>
-                        <span>&bull;</span> {resumeData.work[0].Achievements[6]}
-                      </li>
-                      <li>
-                        <span>&bull;</span> {resumeData.work[0].Achievements[7]}
-                      </li>
-                    </ul>
-
                     <li>
-                      <span>&bull;</span> {resumeData.work[0].Achievements[8]}
-                      <ul>
-                        <li>
-                          <span>&bull;</span>{" "}
-                          {resumeData.work[0].Achievements[9]}
-                          <ul>
-                            <li>
-                              <span>&bull;</span>{" "}
-                              {resumeData.work[0].Achievements[10]}
-                            </li>
-                          </ul>
-                        </li>
-                      </ul>
+                      <span>&bull;</span> {resumeData.work[0].Achievements[2]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[0].Achievements[3]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[0].Achievements[4]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[0].Achievements[5]}
                     </li>
                   </ul>
                 </p>
@@ -155,15 +127,39 @@ export default class Resume extends Component {
                   <ul>
                     <li>
                       <span>&bull;</span> {resumeData.work[1].Achievements[0]}
-                      <ul>
-                        <li>
-                          <span>&bull;</span>{" "}
-                          {resumeData.work[1].Achievements[1]}
-                        </li>
-                      </ul>
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[1].Achievements[1]}
                     </li>
                     <li>
                       <span>&bull;</span> {resumeData.work[1].Achievements[2]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[1].Achievements[3]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[1].Achievements[4]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[1].Achievements[5]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[1].Achievements[6]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[1].Achievements[7]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[1].Achievements[8]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[1].Achievements[9]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[1].Achievements[10]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[1].Achievements[11]}
                     </li>
                   </ul>
                 </p>
@@ -194,6 +190,36 @@ export default class Resume extends Component {
                     </li>
                     <li>
                       <span>&bull;</span> {resumeData.work[2].Achievements[3]}
+                    </li>
+                  </ul>
+                </p>
+              </div>
+            </div>
+
+            <div className="row item">
+              <div className="twelve columns">
+                <h3>{resumeData.work[3].CompanyName}</h3>
+                <p className="info">
+                  {resumeData.work[3].specialization}
+                  <span>&bull;</span>{" "}
+                  <em className="date">
+                    {resumeData.work[3].MonthOfLeaving}{" "}
+                    {resumeData.work[3].YearOfLeaving}
+                  </em>
+                </p>
+                <p>
+                  <ul>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[3].Achievements[0]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[3].Achievements[1]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[3].Achievements[2]}
+                    </li>
+                    <li>
+                      <span>&bull;</span> {resumeData.work[3].Achievements[3]}
                     </li>
                   </ul>
                 </p>
