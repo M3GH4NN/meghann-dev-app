@@ -1,7 +1,7 @@
 let resumeData = {
   imagebaseurl: "https://ivy555.github.io/",
   name: "Meghann Cunningham",
-  role: "Team Lead & DevOps Engineer in the Fulton, MD area",
+  role: "Platform Engineer in the Saint Paul, MN area.",
   linkedinId: "",
   skypeid: "",
   roleDescription: "",
