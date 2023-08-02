@@ -23,12 +23,13 @@ import GameDemo from "./components/Game";
 //   }
 // }
 
-var demo = "/game/demo.html";
+var demo = "./demo.html";
 
 class App extends React.Component {
   render() {
     return (
       <div style={{ display: "unset", margin: "unset" }}>
+        <h1>Hi</h1>
         <iframe
           title="Hex of the Turtle Islands Game"
           style={{
