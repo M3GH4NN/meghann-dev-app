@@ -3,8 +3,6 @@ import React, { Component } from "react";
 export default class About extends Component {
   render() {
     let resumeData = this.props.resumeData;
-    // TODO: fix picture scaling
-    // Update pictures
     return (
       <div>
         <section id="about">
@@ -15,11 +13,6 @@ export default class About extends Component {
                 src="images/IMG_20220410_183500.jpg"
                 alt="Meghann Cunningham"
               />
-              {/* <img
-                className="dog-pic"
-                src="images/dogs2.jpg"
-                alt="Tan mini poodle and black cockapoo"
-              /> */}
             </div>
 
             <div className="nine columns main-col">
@@ -27,11 +20,12 @@ export default class About extends Component {
               <p>{resumeData.aboutme}</p>
               <div className="row">
                 <div className="columns contact-details">
+                  <br />
                   <h2>Contact Details</h2>
                   <p className="address">
                     <span>{resumeData.name}</span>
-                    <br></br>
-                    <span>{resumeData.address}</span>
+                    {/* <br></br> */}
+                    {/* <span>{resumeData.address}</span> */}
                     <br></br>
                     <a href={"mailto:" + resumeData.email}>
                       {resumeData.email}
