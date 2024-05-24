@@ -38,11 +38,13 @@ export default class Header extends Component {
                   Contact
                 </a>
               </li>
+
               {/* <li>
                 <a className="smoothscroll" href="/game">
                   Game Demo
                 </a>
               </li> */}
+
             </ul>
           </nav>
           <div className="row banner">

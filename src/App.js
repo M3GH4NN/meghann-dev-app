@@ -6,6 +6,7 @@ import Portfolio from "./components/Portfolio";
 import ContactUs from "./components/ContactUs";
 import Footer from "./components/Footer";
 import resumeData from "./components/resumeData";
+
 // import GameDemo from "./components/Game";
 class App extends Component {
   render() {
@@ -22,6 +23,7 @@ class App extends Component {
     );
   }
 }
+
 
 // var demo = "/game/demo.html";
 
@@ -43,5 +45,6 @@ class App extends Component {
 //     );
 //   }
 // }
+
 export default App;
 
