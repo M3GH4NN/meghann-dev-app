@@ -1,14 +1,14 @@
 let resumeData = {
   imagebaseurl: "https://ivy555.github.io/",
   name: "Meghann Cunningham",
-  role: "DevOps Engineer passionate about cloud technologies and automation 😎",
+  role: "Platform Engineer in the Saint Paul, MN area",
   linkedinId: "",
   skypeid: "",
   roleDescription: "",
   socialLinks: [
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/in/meghann-dev/",
+      url: "https://www.linkedin.com/in/meghann-cunningham-239b5a4b/",
       className: "fa fa-linkedin",
     },
     {
@@ -18,8 +18,8 @@ let resumeData = {
     },
   ],
   aboutme:
-    "When I am not immersed in my work, you can find me spending time with my partner and two dogs, playing Pickleball, checking out a local brewery, or catching up on my video game backlog!",
-  // address: "Saint Paul, MN",
+    "I am currently a Platform Engineer for a DevSecOps Services and Infrastructure Automation company. In my free time, I enjoy working on personal projects at home, spending time with my partner and two dogs, and playing video games!",
+  address: "Saint Paul, MN",
   email: "mc@meghann.dev",
   education: [
     {
@@ -40,7 +40,7 @@ let resumeData = {
       CompanyName: "EITR Technolgies",
       specialization: "Platform Engineer",
       MonthOfLeaving: "December",
-      YearOfLeaving: "2022 to May 2024",
+      YearOfLeaving: "2022 to Current",
       Achievements: [
         "Develop and implement scalable, reliable, and efficient platform solutions based on business requirements and industry best practices",
         "Automate infrastructure provisioning, configuration, and deployment processes to ensure consistency and repeatability",

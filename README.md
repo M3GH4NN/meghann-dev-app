@@ -1,21 +1,15 @@
 # To Deploy
-
-```bash
 git add -A
-git commit -m "commit message"
-git push origin main
+git commit -m ""
+git push origin master
 npm run build
 npm run deploy
-```
 
-## To Test Locally
-
-```bash
+# To Test Locally
 npm run start
 ('npm install' first if on a new PC)
-```
 
-## Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

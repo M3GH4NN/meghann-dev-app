@@ -38,18 +38,30 @@ export default class Header extends Component {
                   Contact
                 </a>
               </li>
+<<<<<<< HEAD
               {/* <li>
                 <a className="smoothscroll" href="/game">
                   Game Demo
                 </a>
               </li> */}
+=======
+              <li>
+                <a className="smoothscroll" href="/game">
+                  Game Demo
+                </a>
+              </li>
+>>>>>>> 8eb99403181eef0d0214374bec9b3619cdb23b5e
             </ul>
           </nav>
           <div className="row banner">
             <div className="banner-text">
               <h1 className="responsive-headline">{resumeData.name}</h1>
               <h3 style={{ color: "#fff", fontFamily: "sans-serif " }}>
+<<<<<<< HEAD
                 {resumeData.role}
+=======
+                {resumeData.role}.{resumeData.roleDescription}
+>>>>>>> 8eb99403181eef0d0214374bec9b3619cdb23b5e
               </h3>
               <hr />
               <ul className="social">
