@@ -1,14 +1,14 @@
 let resumeData = {
   imagebaseurl: "https://ivy555.github.io/",
   name: "Meghann Cunningham",
-  role: "DevOps Engineer passionate about cloud technologies and automation 😎",
+  role: "Platform Engineer in the Saint Paul, MN area",
   linkedinId: "",
   skypeid: "",
   roleDescription: "",
   socialLinks: [
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/in/meghann-dev/",
+      url: "https://www.linkedin.com/in/meghann-cunningham-239b5a4b/",
       className: "fa fa-linkedin",
     },
     {
@@ -18,8 +18,8 @@ let resumeData = {
     },
   ],
   aboutme:
-    "When I am not immersed in my work, you can find me spending time with my partner and two dogs, playing Pickleball, checking out a local brewery, or catching up on my video game backlog!",
-  // address: "Saint Paul, MN",
+    "I am currently the DevOps Lead Engineer at Convo, where I manage and maintain CI/CD pipelines, infrastructure, and high-availability systems. I work across multiple teams to ensure that cloud architecture is optimized, scalable, and secure while providing infrastructure guidance for new projects. In my free time, I enjoy working on personal projects, spending time with my partner and our two dogs, and playing video games!",
+  address: "Saint Paul, MN",
   email: "mc@meghann.dev",
   education: [
     {
@@ -37,10 +37,25 @@ let resumeData = {
   ],
   work: [
     {
+      CompanyName: "Convo",
+      specialization: "DevOps Lead",
+      MonthOfLeaving: "December",
+      YearOfLeaving: "June 2023 to Current",
+      Achievements: [
+        "Design and maintain scalable CI/CD pipelines using GitHub Actions, streamlining deployments and infrastructure automation.",
+        "Manage cloud infrastructure with Terraform, ensuring high availability, scalability, and security for mission-critical services.",
+        "Optimize ECS-based services, integrating geolocation-based emergency response capabilities to enhance accessibility and reliability.",
+        "Collaborate with cross-functional teams, ensuring seamless DevOps support for applications serving the Deaf and Hard of Hearing community.",
+        "Reduce infrastructure costs and downtime by optimizing cloud automation and task scheduling.",
+        "Reduce AWS costs by conducting a deep dive analysis of AWS usage, identifying and decommissioning outdated infrastructure, and optimizing cloud resource allocation, resulting in significant cost savings."
+      ],
+    },
+
+    {
       CompanyName: "EITR Technolgies",
       specialization: "Platform Engineer",
       MonthOfLeaving: "December",
-      YearOfLeaving: "2022 to May 2024",
+      YearOfLeaving: "2022 to May 2023",
       Achievements: [
         "Develop and implement scalable, reliable, and efficient platform solutions based on business requirements and industry best practices",
         "Automate infrastructure provisioning, configuration, and deployment processes to ensure consistency and repeatability",

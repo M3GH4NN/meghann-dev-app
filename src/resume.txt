@@ -1,0 +1,79 @@
+Meghann Cunningham
+mc@meghann.dev • (585) 506-8848 • LinkedIn
+6368 Red Haven Rd. Columbia, MD 21045
+
+Education
+
+B.S, Computer Science
+SUNY Empire State
+
+B.A, American Sign Language
+University of Rochester
+
+---
+
+Security Clearance
+
+In the final stages of obtaining a TS/SCI with Full Scope Polygraph
+
+---
+
+Technical Skills
+Languages: React, JavaScript, Node, Express, CSS, HTML, Python, JSON, YAML, NoSQL, Bash
+
+AWS: Amplify, API Gateway, Certificate Manager, CLI, CloudFormation, CloudFront, CloudTrail, CloudWatch, Cognito, Cost Explorer, DynamoDB, EC2, ECR, ECS, ELB, EventBridge, Fargate, GuardDuty, IAM, Inspector, Kinesis, KMS, Lambda, Pinpoint, RAM, Route53, S3, Secrets Manager, Security Hub, SNS, SQS, Transit Gateway, VPC, WAF
+
+Tools/Software: CMD, Confluence, GitLab, Godot Game Engine Jira, Kion/Cloudtamer (Cloud Management Tool), PowerShell, Terraform
+
+Platforms: AWS, Docker, Linux, Windows
+
+---
+
+Experience
+
+Game Development Team Lead & DevOps Engineer
+Applied Insight (formerly Stratus Solutions) • Fulton, MD
+Sept 2019 – Present
+● Mar 2022: Promoted to Game Development Team Lead
+o Led a team of 3 responsible for the art, coding, design, and website of an HTML-based video game that will be used to introduce cybersecurity/STEM topics to minority children
+● Jan 2021: Moved to a Game Development project as the sole DevOps engineer in charge of the game’s AWS infrastructure and website
+o Made sure the website and game were compliant with NSA security standards and policies
+▪ Made custom front end and back end components for the game and website
+▪ Made sure network security was compliant
+o Made sure documentation for the game and website were accurate, detailed, and up to date
+o Maintained, automated, and improved GitLab pipelines
+o Helped with game design and development
+● Sept 2019 - Jan 2021: Worked on AWS automation tools for a classified cloud environment
+o Developed automation tools and systems that would configure and manage customers’ AWS accounts and subsequent cloud environments
+o Developed tools for our team to assist with managing our customers’ AWS accounts and their development environments
+
+DevOps Engineer Intern
+Stratus Solutions • Fulton, MD
+Jun 2019 – Aug 2019
+● Created networking automation tools within AWS
+● Gave a presentation to the entire company on our work
+o The tools were immediately deployed into the project’s classified production environment
+
+Office Manager and Scheduling Coordinator
+Sign Language Connection • Rochester, NY
+Jan 2013 – Sept 2019
+● Intake, assessment, and fulfillment of sign language interpreter requests
+● Nov 2015: Promoted to office manager
+● Assisted with business development
+● Maintained and improved internal customer and interpreter database
+● Knowledgeable in the ADA and HIPAA
+
+Personal Projects
+
+Raspberry Pi Smart Display
+
+Custom Smart Home Skills for deaf family members
+
+Websites
+
+---
+
+Languages
+
+English
+American Sign Language
