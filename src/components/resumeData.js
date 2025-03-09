@@ -37,17 +37,17 @@ let resumeData = {
   ],
   work: [
     {
-      CompanyName: "Convo",
+      CompanyName: "Convo Communications",
       specialization: "DevOps Lead",
       MonthOfLeaving: "June",
-      YearOfLeaving: "2023 to Current",
+      YearOfLeaving: "2024 to Current",
       Achievements: [
         "Design and maintain scalable CI/CD pipelines using GitHub Actions, streamlining deployments and infrastructure automation.",
         "Manage cloud infrastructure with Terraform, ensuring high availability, scalability, and security for mission-critical services.",
         "Optimize ECS-based services, integrating geolocation-based emergency response capabilities to enhance accessibility and reliability.",
         "Collaborate with cross-functional teams, ensuring seamless DevOps support for applications serving the Deaf and Hard of Hearing community.",
         "Reduce infrastructure costs and downtime by optimizing cloud automation and task scheduling.",
-        "Reduce AWS costs by conducting a deep dive analysis of AWS usage, identifying and decommissioning outdated infrastructure, and optimizing cloud resource allocation, resulting in significant cost savings."
+        "Reduce AWS costs by conducting deep dive analyses of AWS usage, identifying and decommissioning outdated infrastructure, and optimizing cloud resource allocation, resulting in significant cost savings."
       ],
     },
 
@@ -55,7 +55,7 @@ let resumeData = {
       CompanyName: "EITR Technolgies",
       specialization: "Platform Engineer",
       MonthOfLeaving: "December",
-      YearOfLeaving: "2022 to May 2023",
+      YearOfLeaving: "2022 to May 2024",
       Achievements: [
         "Develop and implement scalable, reliable, and efficient platform solutions based on business requirements and industry best practices",
         "Automate infrastructure provisioning, configuration, and deployment processes to ensure consistency and repeatability",
