@@ -39,8 +39,8 @@ let resumeData = {
     {
       CompanyName: "Convo",
       specialization: "DevOps Lead",
-      MonthOfLeaving: "December",
-      YearOfLeaving: "June 2023 to Current",
+      MonthOfLeaving: "June",
+      YearOfLeaving: "2023 to Current",
       Achievements: [
         "Design and maintain scalable CI/CD pipelines using GitHub Actions, streamlining deployments and infrastructure automation.",
         "Manage cloud infrastructure with Terraform, ensuring high availability, scalability, and security for mission-critical services.",
