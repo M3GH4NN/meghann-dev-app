@@ -3,7 +3,7 @@ mc@meghann.dev • 585-506-8848 • linkedin.com/in/meghann-dev • github.com/M
 Saint Paul, MN
 
 Professional Summary
-DevOps and platform engineering leader experienced in secure cloud infrastructure, CI/CD modernization, infrastructure-as-code, and multi-cloud operations. Current DevOps Lead at Convo Communications, focused on migrating on-premises platforms and workloads to AWS using Terraform while supporting high-availability accessibility products. Director of Engineering for ReefMind LLC and Miller Mind Solutions Inc., leading early-stage technical strategy, AI-enabled workflows, and product delivery.
+DevOps and platform engineering leader experienced in secure cloud infrastructure, CI/CD modernization, infrastructure-as-code, and multi-cloud operations. Current DevOps Lead at Convo Communications, focused on migrating on-premises platforms and workloads to AWS using Terraform while supporting high-availability accessibility products. Director of Engineering for ReefMind LLC and Miller Mind Solutions Inc., leading early-stage technical strategy, AI-enabled workflows, and product delivery. Contract individual contributor supporting Frontera Software's AWS infrastructure.
 
 Technical Skills
 Cloud & Infrastructure: AWS, Azure, Terraform, CloudFormation, AWS CDK, ECS, EKS, Docker, IAM, VPC, Route53, CloudWatch, CloudTrail
@@ -13,7 +13,7 @@ Leadership & Operations: engineering roadmaps, cross-functional delivery, vendor
 
 Experience
 Convo Communications
-DevOps Lead | Jun 17, 2024 - Present
+DevOps Lead | Jun 2024 - Present
 - Lead DevOps and platform engineering for accessibility-focused communication products serving Deaf and hard-of-hearing communities.
 - Migrate on-premises platforms and workloads to AWS using Terraform, building repeatable infrastructure patterns for scalable and reliable production operations.
 - Design, maintain, and improve CI/CD pipelines and deployment automation with GitHub Actions, Terraform, and AWS services.
@@ -21,23 +21,23 @@ DevOps Lead | Jun 17, 2024 - Present
 - Partner with engineering, product, and operations stakeholders to reduce manual release work, improve observability, and strengthen secure infrastructure practices.
 
 ReefMind LLC
-Director of Engineering | May 22, 2026 - Present
+Director of Engineering | May 2026 - Present
 - Lead engineering direction for ReefMind.ai, an AI-enabled reef-aquarium monitoring platform focused on proactive tank health insights and automation.
 - Own technical architecture decisions across product, data, integrations, infrastructure, and deployment practices for early-stage development.
 - Translate founder and stakeholder goals into implementation plans, engineering priorities, and maintainable systems that support MVP iteration and growth.
 
 Miller Mind Solutions Inc.
-Director of Engineering | May 22, 2026 - Present
+Director of Engineering | May 2026 - Present
 - Founding engineering leader responsible for technical strategy, solution architecture, and delivery practices across client and internal product initiatives.
 - Build reusable automation patterns and AI-enabled workflows that help small teams improve operations while managing infrastructure, data, and delivery risk.
 - Collaborate with business and operations leadership on roadmaps, implementation priorities, and scalable engineering processes.
 
 Frontera Software
 DevOps Engineer (Contract) | Sep 2024 - Present
-- Maintain and support Frontera's AWS infrastructure on an as-needed basis, including operational fixes, configuration updates, and reliability improvements.
+- Serve as an individual contributor supporting AWS infrastructure for Frontera Software, including operational fixes, configuration updates, and reliability improvements.
 
 EITR Technologies, LLC
-Platform Engineer | Dec 2022 - May 31, 2024
+Platform Engineer | Dec 2022 - May 2024
 - Collaborated with executive leadership on AWS automation solutions, improving operational efficiency for customer projects and internal deployment tooling.
 - Optimized GitHub Actions, GitLab CI pipelines, and AWS CloudFormation templates to improve reliability and repeatability of infrastructure deployments.
 - Contributed to SaltStack open-source development, supporting tool functionality and community engagement.

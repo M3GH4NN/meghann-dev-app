@@ -18,7 +18,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I’m a DevOps and platform engineering leader focused on secure cloud infrastructure, CI/CD modernization, infrastructure-as-code, and scalable delivery systems. I’m currently DevOps Lead at Convo Communications, where I focus on migrating on-premises platforms and workloads to AWS using Terraform while supporting high-availability accessibility products. I also serve as Director of Engineering for ReefMind LLC and Miller Mind Solutions Inc., and support Frontera Software’s AWS infrastructure on a contract basis.",
+    "I’m a DevOps and platform engineering leader focused on secure cloud infrastructure, CI/CD modernization, infrastructure-as-code, and scalable delivery systems. I’m currently DevOps Lead at Convo Communications, where I focus on migrating on-premises platforms and workloads to AWS using Terraform while supporting high-availability accessibility products. I also serve as Director of Engineering for ReefMind LLC and Miller Mind Solutions Inc., and as an individual contributor supporting Frontera Software’s AWS infrastructure on a contract basis.",
   address: "Saint Paul, MN",
   email: "mc@meghann.dev",
   education: [
@@ -39,7 +39,7 @@ let resumeData = {
     {
       CompanyName: "Convo Communications",
       specialization: "DevOps Lead",
-      MonthOfLeaving: "Jun 17",
+      MonthOfLeaving: "Jun",
       YearOfLeaving: "2024 to Present",
       Achievements: [
         "Lead DevOps and platform engineering for accessibility-focused communication products serving Deaf and hard-of-hearing communities.",
@@ -50,9 +50,19 @@ let resumeData = {
       ],
     },
     {
+      CompanyName: "Frontera",
+      specialization: "DevOps Engineer",
+      MonthOfLeaving: "Sep",
+      YearOfLeaving: "2024 to Present",
+      Achievements: [
+        "Support AWS infrastructure work as an individual contributor focused on DevOps engineering and cloud operations.",
+        "Contribute to infrastructure reliability, automation, and delivery workflows across AWS environments.",
+      ],
+    },
+    {
       CompanyName: "ReefMind LLC",
       specialization: "Director of Engineering",
-      MonthOfLeaving: "May 22",
+      MonthOfLeaving: "May",
       YearOfLeaving: "2026 to Present",
       Achievements: [
         "Lead engineering direction for ReefMind.ai, an AI-enabled reef-aquarium monitoring platform focused on proactive tank health insights and automation.",
@@ -63,7 +73,7 @@ let resumeData = {
     {
       CompanyName: "Miller Mind Solutions Inc.",
       specialization: "Director of Engineering",
-      MonthOfLeaving: "May 22",
+      MonthOfLeaving: "May",
       YearOfLeaving: "2026 to Present",
       Achievements: [
         "Founding engineering leader responsible for technical strategy, solution architecture, and delivery practices across client and internal product initiatives.",
@@ -77,14 +87,14 @@ let resumeData = {
       MonthOfLeaving: "Sep",
       YearOfLeaving: "2024 to Present",
       Achievements: [
-        "Maintain and support Frontera's AWS infrastructure on an as-needed basis, including operational fixes, configuration updates, and reliability improvements.",
+        "Serve as an individual contributor supporting AWS infrastructure for Frontera Software, including operational fixes, configuration updates, and reliability improvements.",
       ],
     },
     {
       CompanyName: "EITR Technologies, LLC",
       specialization: "Platform Engineer",
       MonthOfLeaving: "Dec",
-      YearOfLeaving: "2022 to May 31, 2024",
+      YearOfLeaving: "2022 to May 2024",
       Achievements: [
         "Collaborated with executive leadership on AWS automation solutions, improving operational efficiency for customer projects and internal deployment tooling.",
         "Optimized GitHub Actions, GitLab CI pipelines, and AWS CloudFormation templates to improve reliability and repeatability of infrastructure deployments.",
