@@ -1,79 +1,65 @@
 Meghann Cunningham
-mc@meghann.dev • (585) 506-8848 • LinkedIn
-6368 Red Haven Rd. Columbia, MD 21045
+mc@meghann.dev • 585-506-8848 • linkedin.com/in/meghann-dev • github.com/M3GH4NN • meghann.dev
+Saint Paul, MN
 
-Education
-
-B.S, Computer Science
-SUNY Empire State
-
-B.A, American Sign Language
-University of Rochester
-
----
-
-Security Clearance
-
-In the final stages of obtaining a TS/SCI with Full Scope Polygraph
-
----
+Professional Summary
+DevOps and platform engineering leader experienced in secure cloud infrastructure, CI/CD modernization, infrastructure-as-code, and multi-cloud operations. Current DevOps Lead at Convo Communications, focused on migrating on-premises platforms and workloads to AWS using Terraform while supporting high-availability accessibility products. Director of Engineering for ReefMind LLC and Miller Mind Solutions Inc., leading early-stage technical strategy, AI-enabled workflows, and product delivery.
 
 Technical Skills
-Languages: React, JavaScript, Node, Express, CSS, HTML, Python, JSON, YAML, NoSQL, Bash
-
-AWS: Amplify, API Gateway, Certificate Manager, CLI, CloudFormation, CloudFront, CloudTrail, CloudWatch, Cognito, Cost Explorer, DynamoDB, EC2, ECR, ECS, ELB, EventBridge, Fargate, GuardDuty, IAM, Inspector, Kinesis, KMS, Lambda, Pinpoint, RAM, Route53, S3, Secrets Manager, Security Hub, SNS, SQS, Transit Gateway, VPC, WAF
-
-Tools/Software: CMD, Confluence, GitLab, Godot Game Engine Jira, Kion/Cloudtamer (Cloud Management Tool), PowerShell, Terraform
-
-Platforms: AWS, Docker, Linux, Windows
-
----
+Cloud & Infrastructure: AWS, Azure, Terraform, CloudFormation, AWS CDK, ECS, EKS, Docker, IAM, VPC, Route53, CloudWatch, CloudTrail
+DevOps & Delivery: GitHub Actions, GitLab CI, CI/CD pipeline design, infrastructure automation, DevSecOps, observability, monitoring, alerting
+Languages & Scripting: Python, Bash, JavaScript, TypeScript, Golang, PowerShell
+Leadership & Operations: engineering roadmaps, cross-functional delivery, vendor/client collaboration, compliance-minded systems, team enablement
 
 Experience
+Convo Communications
+DevOps Lead | Jun 17, 2024 - Present
+- Lead DevOps and platform engineering for accessibility-focused communication products serving Deaf and hard-of-hearing communities.
+- Migrate on-premises platforms and workloads to AWS using Terraform, building repeatable infrastructure patterns for scalable and reliable production operations.
+- Design, maintain, and improve CI/CD pipelines and deployment automation with GitHub Actions, Terraform, and AWS services.
+- Operate and optimize AWS environments across ECS, EKS, IAM, VPC networking, Route53, CloudWatch, CloudTrail, and supporting infrastructure components.
+- Partner with engineering, product, and operations stakeholders to reduce manual release work, improve observability, and strengthen secure infrastructure practices.
 
-Game Development Team Lead & DevOps Engineer
-Applied Insight (formerly Stratus Solutions) • Fulton, MD
-Sept 2019 – Present
-● Mar 2022: Promoted to Game Development Team Lead
-o Led a team of 3 responsible for the art, coding, design, and website of an HTML-based video game that will be used to introduce cybersecurity/STEM topics to minority children
-● Jan 2021: Moved to a Game Development project as the sole DevOps engineer in charge of the game’s AWS infrastructure and website
-o Made sure the website and game were compliant with NSA security standards and policies
-▪ Made custom front end and back end components for the game and website
-▪ Made sure network security was compliant
-o Made sure documentation for the game and website were accurate, detailed, and up to date
-o Maintained, automated, and improved GitLab pipelines
-o Helped with game design and development
-● Sept 2019 - Jan 2021: Worked on AWS automation tools for a classified cloud environment
-o Developed automation tools and systems that would configure and manage customers’ AWS accounts and subsequent cloud environments
-o Developed tools for our team to assist with managing our customers’ AWS accounts and their development environments
+ReefMind LLC
+Director of Engineering | May 22, 2026 - Present
+- Lead engineering direction for ReefMind.ai, an AI-enabled reef-aquarium monitoring platform focused on proactive tank health insights and automation.
+- Own technical architecture decisions across product, data, integrations, infrastructure, and deployment practices for early-stage development.
+- Translate founder and stakeholder goals into implementation plans, engineering priorities, and maintainable systems that support MVP iteration and growth.
 
-DevOps Engineer Intern
-Stratus Solutions • Fulton, MD
-Jun 2019 – Aug 2019
-● Created networking automation tools within AWS
-● Gave a presentation to the entire company on our work
-o The tools were immediately deployed into the project’s classified production environment
+Miller Mind Solutions Inc.
+Director of Engineering | May 22, 2026 - Present
+- Founding engineering leader responsible for technical strategy, solution architecture, and delivery practices across client and internal product initiatives.
+- Build reusable automation patterns and AI-enabled workflows that help small teams improve operations while managing infrastructure, data, and delivery risk.
+- Collaborate with business and operations leadership on roadmaps, implementation priorities, and scalable engineering processes.
 
-Office Manager and Scheduling Coordinator
-Sign Language Connection • Rochester, NY
-Jan 2013 – Sept 2019
-● Intake, assessment, and fulfillment of sign language interpreter requests
-● Nov 2015: Promoted to office manager
-● Assisted with business development
-● Maintained and improved internal customer and interpreter database
-● Knowledgeable in the ADA and HIPAA
+Frontera Software
+DevOps Engineer (Contract) | Sep 2024 - Present
+- Maintain and support Frontera's AWS infrastructure on an as-needed basis, including operational fixes, configuration updates, and reliability improvements.
 
-Personal Projects
+EITR Technologies, LLC
+Platform Engineer | Dec 2022 - May 31, 2024
+- Collaborated with executive leadership on AWS automation solutions, improving operational efficiency for customer projects and internal deployment tooling.
+- Optimized GitHub Actions, GitLab CI pipelines, and AWS CloudFormation templates to improve reliability and repeatability of infrastructure deployments.
+- Contributed to SaltStack open-source development, supporting tool functionality and community engagement.
 
-Raspberry Pi Smart Display
+Applied Insight
+Team Lead | DevOps Engineer | Sep 2019 - Dec 2022
+Formerly Stratus Solutions
+- Developed and managed secure AWS infrastructure for federal government projects with strict security, compliance, and reliability requirements.
+- Led automation efforts across AWS environments and GitLab pipelines, improving deployment efficiency and operational consistency.
+- Promoted to Game Development Team Lead in 2022, overseeing AWS infrastructure and website development for a compliance-sensitive game project.
+- Contributed to game design and development using the Godot engine while guiding front-end, back-end, and deployment improvements.
 
-Custom Smart Home Skills for deaf family members
+Stratus Solutions
+DevOps Engineer Intern | Jun 2019 - Aug 2019
+- Implemented AWS networking automation tools for a classified platform in a secure environment.
+- Presented the internship project company-wide, communicating technical concepts and automation impact to a broad audience.
 
-Websites
+Sign Language Connection Inc.
+Scheduling Coordinator Supervisor | Jan 2013 - Sep 2019
+- Supervised scheduling operations, interpreter coordination, customer support, and internal database workflows for accessibility-focused services.
+- Supported business operations and compliance needs, including ADA and HIPAA-aligned processes.
 
----
-
-Languages
-
-English
-American Sign Language
+Education
+SUNY Empire State College — Bachelor's, Computer Science | 2018 - 2020
+University of Rochester — Bachelor's, American Sign Language | 2008 - 2012

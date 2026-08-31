@@ -1,7 +1,7 @@
 let resumeData = {
   imagebaseurl: "https://ivy555.github.io/",
   name: "Meghann Cunningham",
-  role: "DevOps Engineer | CI/CD, AWS, & Infrastructure Automation | Based in Saint Paul, MN",
+  role: "DevOps Lead | Platform Engineer | Director of Engineering | AWS, Terraform, CI/CD",
   linkedinId: "",
   skypeid: "",
   roleDescription: "",
@@ -18,7 +18,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I am currently the DevOps Lead Engineer at Convo, where I manage and maintain CI/CD pipelines, infrastructure, and high-availability systems. I work across multiple teams to ensure that cloud architecture is optimized, scalable, and secure while providing infrastructure guidance for new projects. In my free time, I enjoy working on personal projects, spending time with my partner and our two dogs, and playing video games!",
+    "I’m a DevOps and platform engineering leader focused on secure cloud infrastructure, CI/CD modernization, infrastructure-as-code, and scalable delivery systems. I’m currently DevOps Lead at Convo Communications, where I focus on migrating on-premises platforms and workloads to AWS using Terraform while supporting high-availability accessibility products. I also serve as Director of Engineering for ReefMind LLC and Miller Mind Solutions Inc., and support Frontera Software’s AWS infrastructure on a contract basis.",
   address: "Saint Paul, MN",
   email: "mc@meghann.dev",
   education: [
@@ -39,77 +39,106 @@ let resumeData = {
     {
       CompanyName: "Convo Communications",
       specialization: "DevOps Lead",
-      MonthOfLeaving: "June",
-      YearOfLeaving: "2024 to Current",
+      MonthOfLeaving: "Jun 17",
+      YearOfLeaving: "2024 to Present",
       Achievements: [
-        "Design and maintain scalable CI/CD pipelines using GitHub Actions, streamlining deployments and infrastructure automation.",
-        "Manage cloud infrastructure with Terraform, ensuring high availability, scalability, and security for mission-critical services.",
-        "Optimize ECS-based services, integrating geolocation-based emergency response capabilities to enhance accessibility and reliability.",
-        "Collaborate with cross-functional teams, ensuring seamless DevOps support for applications serving the Deaf and Hard of Hearing community.",
-        "Reduce infrastructure costs and downtime by optimizing cloud automation and task scheduling.",
+        "Lead DevOps and platform engineering for accessibility-focused communication products serving Deaf and hard-of-hearing communities.",
+        "Migrate on-premises platforms and workloads to AWS using Terraform, building repeatable infrastructure patterns for scalable and reliable production operations.",
+        "Design, maintain, and improve CI/CD pipelines and deployment automation with GitHub Actions, Terraform, and AWS services.",
+        "Operate and optimize AWS environments across ECS, EKS, IAM, VPC networking, Route53, CloudWatch, CloudTrail, and supporting infrastructure components.",
+        "Partner with engineering, product, and operations stakeholders to reduce manual release work, improve observability, and strengthen secure infrastructure practices.",
       ],
     },
     {
-      CompanyName: "EITR Technologies",
-      specialization: "Platform Engineer",
-      MonthOfLeaving: "December",
-      YearOfLeaving: "2022 to May 2024",
+      CompanyName: "ReefMind LLC",
+      specialization: "Director of Engineering",
+      MonthOfLeaving: "May 22",
+      YearOfLeaving: "2026 to Present",
       Achievements: [
-        "Develop and implement scalable, reliable, and efficient platform solutions.",
-        "Automate infrastructure provisioning, configuration, and deployment processes.",
-        "Establish and maintain DevSecOps practices.",
-        "Implement monitoring, logging, and alerting systems.",
-        "Ensure platform security by implementing appropriate security measures.",
+        "Lead engineering direction for ReefMind.ai, an AI-enabled reef-aquarium monitoring platform focused on proactive tank health insights and automation.",
+        "Own technical architecture decisions across product, data, integrations, infrastructure, and deployment practices for early-stage development.",
+        "Translate founder and stakeholder goals into implementation plans, engineering priorities, and maintainable systems that support MVP iteration and growth.",
+      ],
+    },
+    {
+      CompanyName: "Miller Mind Solutions Inc.",
+      specialization: "Director of Engineering",
+      MonthOfLeaving: "May 22",
+      YearOfLeaving: "2026 to Present",
+      Achievements: [
+        "Founding engineering leader responsible for technical strategy, solution architecture, and delivery practices across client and internal product initiatives.",
+        "Build reusable automation patterns and AI-enabled workflows that help small teams improve operations while managing infrastructure, data, and delivery risk.",
+        "Collaborate with business and operations leadership on roadmaps, implementation priorities, and scalable engineering processes.",
+      ],
+    },
+    {
+      CompanyName: "Frontera Software",
+      specialization: "DevOps Engineer (Contract)",
+      MonthOfLeaving: "Sep",
+      YearOfLeaving: "2024 to Present",
+      Achievements: [
+        "Maintain and support Frontera's AWS infrastructure on an as-needed basis, including operational fixes, configuration updates, and reliability improvements.",
+      ],
+    },
+    {
+      CompanyName: "EITR Technologies, LLC",
+      specialization: "Platform Engineer",
+      MonthOfLeaving: "Dec",
+      YearOfLeaving: "2022 to May 31, 2024",
+      Achievements: [
+        "Collaborated with executive leadership on AWS automation solutions, improving operational efficiency for customer projects and internal deployment tooling.",
+        "Optimized GitHub Actions, GitLab CI pipelines, and AWS CloudFormation templates to improve reliability and repeatability of infrastructure deployments.",
+        "Contributed to SaltStack open-source development, supporting tool functionality and community engagement.",
       ],
     },
     {
       CompanyName: "Applied Insight (formerly Stratus Solutions)",
-      specialization: "Game Dev Team Lead & DevOps Engineer",
-      MonthOfLeaving: "September",
-      YearOfLeaving: "2019 to December 2022",
+      specialization: "Team Lead | DevOps Engineer",
+      MonthOfLeaving: "Sep",
+      YearOfLeaving: "2019 to Dec 2022",
       Achievements: [
-        "Promoted to Game Development Team Lead in 2022.",
-        "Managed AWS infrastructure and website for a game development project.",
-        "Ensured NSA security compliance for game and website.",
+        "Developed and managed secure AWS infrastructure for federal government projects with strict security, compliance, and reliability requirements.",
+        "Led automation efforts across AWS environments and GitLab pipelines, improving deployment efficiency and operational consistency.",
+        "Promoted to Game Development Team Lead in 2022, overseeing AWS infrastructure and website development for a compliance-sensitive game project.",
+        "Contributed to game design and development using the Godot engine while guiding front-end, back-end, and deployment improvements.",
       ],
     },
     {
       CompanyName: "Stratus Solutions",
       specialization: "DevOps Engineer Intern",
-      MonthOfLeaving: "June",
-      YearOfLeaving: "2019 to August 2019",
+      MonthOfLeaving: "Jun",
+      YearOfLeaving: "2019 to Aug 2019",
       Achievements: [
-        "Created networking automation tools within AWS.",
-        "Presented internship project to the entire company.",
+        "Implemented AWS networking automation tools for a classified platform in a secure environment.",
+        "Presented the internship project company-wide, communicating technical concepts and automation impact to a broad audience.",
       ],
     },
     {
       CompanyName: "Sign Language Connection, Inc.",
-      specialization: "Office Manager",
-      MonthOfLeaving: "January",
-      YearOfLeaving: "2013 to September 2019",
+      specialization: "Scheduling Coordinator Supervisor",
+      MonthOfLeaving: "Jan",
+      YearOfLeaving: "2013 to Sep 2019",
       Achievements: [
-        "Handled interpreter requests and scheduling.",
-        "Managed internal customer and interpreter database.",
-        "Assisted with business development and compliance (ADA, HIPAA).",
+        "Supervised scheduling operations, interpreter coordination, customer support, and internal database workflows for accessibility-focused services.",
+        "Supported business operations and compliance needs, including ADA and HIPAA-aligned processes.",
       ],
     },
   ],
   skills: [
     {
       skillname:
-        "Languages: React, JavaScript, Node, Python, Express, HTML, CSS, NoSQL, Bash",
+        "Cloud & Infrastructure: AWS, Azure, Terraform, CloudFormation, AWS CDK, ECS, EKS, Docker, IAM, VPC, Route53, CloudWatch, CloudTrail",
     },
     {
       skillname:
-        "AWS: Amplify, API Gateway, CLI, CloudFormation, CloudTrail, CloudWatch, Cognito, DynamoDB, EC2, ECR, ECS, ELB, IAM, Lambda, Pinpoint, Route53, S3, SNS, SQS, Transit Gateway, VPC",
+        "DevOps & Delivery: GitHub Actions, GitLab CI, CI/CD pipeline design, infrastructure automation, DevSecOps, observability, monitoring, alerting",
+    },
+    {
+      skillname: "Languages & Scripting: Python, Bash, JavaScript, TypeScript, Golang, PowerShell",
     },
     {
       skillname:
-        "Tools/Software: CMD, Confluence, GitLab, Jira, Kion/Cloudtamer, PowerShell, Terraform, Terragrunt",
-    },
-    {
-      skillname: "Platforms: AWS, Azure, Docker, GCP, Linux, Windows",
+        "Leadership & Operations: engineering roadmaps, cross-functional delivery, vendor/client collaboration, compliance-minded systems, team enablement",
     },
   ],
   portfolio: [
