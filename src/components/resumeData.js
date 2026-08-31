@@ -50,16 +50,6 @@ let resumeData = {
       ],
     },
     {
-      CompanyName: "Frontera",
-      specialization: "DevOps Engineer",
-      MonthOfLeaving: "Sep",
-      YearOfLeaving: "2024 to Present",
-      Achievements: [
-        "Support AWS infrastructure work as an individual contributor focused on DevOps engineering and cloud operations.",
-        "Contribute to infrastructure reliability, automation, and delivery workflows across AWS environments.",
-      ],
-    },
-    {
       CompanyName: "ReefMind LLC",
       specialization: "Director of Engineering",
       MonthOfLeaving: "May",

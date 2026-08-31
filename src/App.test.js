@@ -32,6 +32,7 @@ test("renders work timeline dates as month and year", () => {
   expect(within(getWorkItem("Miller Mind Solutions Inc.")).getByText(/May 2026 to Present/i)).toBeInTheDocument();
 
   expect(within(getWorkItem("Frontera Software")).getByText(/DevOps Engineer \(Contract\)/i)).toBeInTheDocument();
+  expect(screen.getAllByRole("heading", { name: /Frontera/i })).toHaveLength(1);
   expect(within(getWorkItem("Frontera Software")).getByText(/Sep 2024 to Present/i)).toBeInTheDocument();
   expect(
     within(getWorkItem("Frontera Software")).getByText(/individual contributor supporting AWS infrastructure/i)
