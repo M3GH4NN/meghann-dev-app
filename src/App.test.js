@@ -1,3 +1,4 @@
+import fs from "fs";
 import { render, screen, within } from "@testing-library/react";
 import App from "./App";
 
@@ -40,6 +41,17 @@ test("renders work timeline dates as month and year", () => {
 
   expect(within(getWorkItem("EITR Technologies, LLC")).getByText(/Platform Engineer/i)).toBeInTheDocument();
   expect(within(getWorkItem("EITR Technologies, LLC")).getByText(/Dec 2022 to May 2024/i)).toBeInTheDocument();
+});
+
+test("renders Minneapolis as the contact location across website and text mirror", () => {
+  render(<App />);
+
+  expect(screen.getByText(/Minneapolis, MN/i)).toBeInTheDocument();
+  expect(screen.queryByText(/Saint Paul, MN/i)).not.toBeInTheDocument();
+
+  const resumeText = fs.readFileSync("src/resume.txt", "utf8");
+  expect(resumeText).toContain("Minneapolis, MN");
+  expect(resumeText).not.toContain("Saint Paul, MN");
 });
 
 test("does not render day-specific dates on resume timeline", () => {

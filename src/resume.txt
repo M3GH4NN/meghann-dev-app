@@ -1,6 +1,6 @@
 Meghann Cunningham
 mc@meghann.dev • 585-506-8848 • linkedin.com/in/meghann-dev • github.com/M3GH4NN • meghann.dev
-Saint Paul, MN
+Minneapolis, MN
 
 Professional Summary
 DevOps and platform engineering leader experienced in secure cloud infrastructure, CI/CD modernization, infrastructure-as-code, and multi-cloud operations. Current DevOps Lead at Convo Communications, focused on migrating on-premises platforms and workloads to AWS using Terraform while supporting high-availability accessibility products. Director of Engineering for ReefMind LLC and Miller Mind Solutions Inc., leading early-stage technical strategy, AI-enabled workflows, and product delivery. Contract individual contributor supporting Frontera Software's AWS infrastructure.

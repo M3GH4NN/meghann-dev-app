@@ -19,7 +19,7 @@ let resumeData = {
   ],
   aboutme:
     "I’m a DevOps and platform engineering leader focused on secure cloud infrastructure, CI/CD modernization, infrastructure-as-code, and scalable delivery systems. I’m currently DevOps Lead at Convo Communications, where I focus on migrating on-premises platforms and workloads to AWS using Terraform while supporting high-availability accessibility products. I also serve as Director of Engineering for ReefMind LLC and Miller Mind Solutions Inc., and as an individual contributor supporting Frontera Software’s AWS infrastructure on a contract basis.",
-  address: "Saint Paul, MN",
+  address: "Minneapolis, MN",
   email: "mc@meghann.dev",
   education: [
     {
